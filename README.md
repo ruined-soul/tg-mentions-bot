@@ -65,3 +65,8 @@ Telegram-бот для упоминания пользователей по на
 В переменные окружения необходимо добавить:
 - TOKEN — токен telegram-бота (получить можно у [@BotFather](https://t.me/BotFather))
 - DATABASE_URL — строка для подключения в БД Postgres
+
+DEPLOYING TO HEROKU
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ruined-soul/tg-mentions-bot/tree/main)
+
